@@ -1,4 +1,5 @@
-# This is my conflicting text:
+
+# This is no longer my conflicting text:
 
 
 "Lorem ipsum dolor sit amet, 
@@ -14,3 +15,8 @@ fugiat nulla pariatur. Excepteur sint
 occaecat cupidatat non proident, sunt 
 in culpa qui officia deserunt mollit 
 anim id est laborum."
+
+# References
+
+* octocat 1 😈
+
